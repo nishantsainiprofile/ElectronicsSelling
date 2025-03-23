@@ -13,7 +13,7 @@ function App() {
       <div className="App grid-container">
         {/* Main container */}
         <div className="grid-x grid-padding-x align-center">
-          <div className="cell medium-8">
+          <div className="cell medium-8">  
             {/* Header Section */}
             <h1 className="text-center">Complete Payment</h1>
             <p className="text-center">
